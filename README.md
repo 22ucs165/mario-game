@@ -1,4 +1,4 @@
-# Mario Game 🎮 By - SHIBAM NATH 💖
+# Mario Game 🎮 By - Rishabh Jain
 
 
 
